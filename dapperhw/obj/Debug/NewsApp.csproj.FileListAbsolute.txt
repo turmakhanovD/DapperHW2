@@ -1,0 +1,12 @@
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\NewsApp.exe.config
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\NewsApp.exe
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\NewsApp.pdb
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\Dapper.dll
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\dbup-core.dll
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\dbup-sqlserver.dll
+C:\Users\Адиль\source\repos\NewsApp\bin\Debug\Dapper.xml
+C:\Users\Адиль\source\repos\NewsApp\obj\Debug\NewsApp.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\NewsApp\obj\Debug\NewsApp.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\NewsApp\obj\Debug\NewsApp.csproj.CopyComplete
+C:\Users\Адиль\source\repos\NewsApp\obj\Debug\NewsApp.exe
+C:\Users\Адиль\source\repos\NewsApp\obj\Debug\NewsApp.pdb
